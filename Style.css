@@ -1,0 +1,131 @@
+body {
+    background-color: rgb(239, 236, 236);
+}
+
+.div1 {
+    background-color: rgb(55, 17, 247);
+    padding: 8px;
+}
+
+h1 {
+    color: #0009ff;
+    color: #fff;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a:hover {
+    background-color: red;
+}
+
+.div2 {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.div3 {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+h2 {
+    justify-content: center;
+    color: #0009ff;
+}
+
+.div4  {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.div5 {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+
+.forme2 {
+    background-color: white;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    
+    }
+    
+    .forme2 input[type="text"],
+    .forme2 input[type="email"],
+    
+    form textarea {
+    width: 1440px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    }
+    
+    .forme2 textarea {
+        resize: none;
+    }
+    
+    .forme2 input[type="submit"] {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+    }
+    
+    .forme2 input[type="submit"]:hover {
+        background-color: #8b9ac0;
+    }
+    
+    .button2 {
+        background-color: #0009ff;
+        color: #fff;
+        width: 1440px;
+        height: 30px;
+        margin-bottom: 30px;
+    }
+    
+    footer {
+        background-color: rgb(4, 4, 255);
+        padding: 18px;
+        text-align: center;
+    
+    }
+
+    h3 , p , ul {
+        color: #0009ff;
+    }
+
+    .badara {
+       
+        
+        padding-left: 20px;
+
+    }
